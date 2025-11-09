@@ -96,16 +96,6 @@ jupyter notebook hepatitis_classification.ipynb
 
 ---
 
-## 📁 Project Structure
-
-```
-Hepatitis_classification/
-├── hepatitis_classification.ipynb    # Main notebook
-├── dataset/                           # Dataset files
-├── models/                            # Trained models
-├── requirements.txt                   # Dependencies
-└── README.md                          # Documentation
-```
 
 ---
 
